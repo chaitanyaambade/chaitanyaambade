@@ -3,8 +3,9 @@ I’m a founding team member at Axgen, an AI-powered marketing and automation pl
 My work focuses on designing and improving agent task flows, assisting in the development of small components within larger AI systems, and supporting research-driven automation for marketing use cases. I collaborate closely with engineers and founders to translate ideas into practical workflows and experiments.
 Alongside agent-related work, I handle market research, social media strategy, and growth experimentation, helping shape how the product is positioned and validated in real-world scenarios.
 
- • I’m especially interested in:
- • AI agents & workflow orchestration
+I’m especially interested in:  
+
+ • AI agents & workflow orchestration <br>
  • Prompt engineering and task automation
  • Growth systems and marketing automation
  • Research-backed product building
@@ -14,9 +15,7 @@ Currently learning and experimenting with tools around AI automation, agent fram
 
 Interests: AI Agents • Automation • Prompt Engineering • Growth Systems
 Working With: APIs • Agent Workflows • Research Tools • Social Platforms
-
 <br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaitanya_9.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanyaambade) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Chaitan53876872) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ambadechaitanya9@gmail.com) 
