@@ -16,9 +16,12 @@ Currently learning and experimenting with tools around AI automation, agent fram
 Interests: AI Agents • Automation • Prompt Engineering • Growth Systems
 Working With: APIs • Agent Workflows • Research Tools • Social Platforms
 
+
 # GitHub Stats 📊:
+<div align="center">
 <img 
     src="https://nirzak-streak-stats.vercel.app/?user=chaitanyaambade&theme=tokyonight" 
     height="300" 
     alt="GitHub Streak" 
   />
+</div>
