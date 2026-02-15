@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,9 +18,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: chaitanyaambade
+          # set date range from August
+          github_contribution_grid_since: "2025-08-01"
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00F7FF&color_dots=#1f6feb,#0e4429,#006d32,#26a641,#39d353
 
       - name: Push snake
         uses: crazy-max/ghaction-github-pages@v4
