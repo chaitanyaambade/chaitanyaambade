@@ -18,7 +18,7 @@ Working With: APIs • Agent Workflows • Research Tools • Social Platforms
 
 # GitHub Stats 📊:
 <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=rohitdeshmukh27&theme=tokyonight" 
+    src="https://nirzak-streak-stats.vercel.app/?user=chaitanyaambade&theme=tokyonight" 
     height="300" 
     alt="GitHub Streak" 
   />
