@@ -1,4 +1,5 @@
 ## Hey There 👋🏻:
+
 I’m a founding team member at Axgen, an AI-powered marketing and automation platform, where I work on AI agent workflows, research, and growth execution.
 My work focuses on designing and improving agent task flows, assisting in the development of small components within larger AI systems, and supporting research-driven automation for marketing use cases. I collaborate closely with engineers and founders to translate ideas into practical workflows and experiments.
 Alongside agent-related work, I handle market research, social media strategy, and growth experimentation, helping shape how the product is positioned and validated in real-world scenarios.
@@ -25,6 +26,11 @@ Working With: APIs • Agent Workflows • Research Tools • Social Platforms
    <img alt="github contribution snake" src="https://raw.githubusercontent.com/chaitanyaambade/chaitanyaambade/output/github-contribution-grid-snake.svg">
   </picture>
 </div> 
+
+## Contribution Graph 📈:
+
+[![Chaitanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaitanyaambade&theme=tokyo-night)](https://github.com/chaitanyaambade)
+
 
 ## GitHub Stats 📊:
 <div align="center">
