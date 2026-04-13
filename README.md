@@ -34,5 +34,5 @@ Working With: APIs • Agent Workflows • Research Tools • Social Platforms
 
 ## GitHub Stats 📊:
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=chaitanyaambade" width="600" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com/?user=chaitanyaambade&theme=dark" width="600" alt="GitHub Streak">
 </div>
