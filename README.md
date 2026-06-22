@@ -5,6 +5,7 @@ My work focuses on designing and improving agent task flows, assisting in the de
 Alongside agent-related work, I handle market research, social media strategy, and growth experimentation, helping shape how the product is positioned and validated in real-world scenarios.
 
 
+
 I’m especially interested in:  
 
  • AI agents & workflow orchestration <br>
