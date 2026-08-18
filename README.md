@@ -12,6 +12,7 @@ Alongside agent-related work, I handle market research, social media strategy, a
 I’m especially interested in:  
 
 
+
  • AI agents & workflow orchestration <br>
  • Prompt engineering and task automation <br>
  • Growth systems and marketing automation <br>
