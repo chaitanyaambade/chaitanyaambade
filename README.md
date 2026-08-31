@@ -40,11 +40,15 @@ Working With: APIs • Agent Workflows • Research Tools • Social Platforms
 
 ## Contribution Graph 📈:
 
+
 [![Chaitanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaitanyaambade&theme=tokyo-night)](https://github.com/chaitanyaambade)
 
 
 
+
+
 ## GitHub Stats 📊:
+
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=chaitanyaambade&theme=radical" width="600" alt="GitHub Streak">
 </div>
