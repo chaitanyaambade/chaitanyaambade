@@ -23,6 +23,7 @@ I’m especially interested in:
  
 Currently learning and experimenting with tools around AI automation, agent frameworks, APIs, and growth tech, while building in a fast-moving startup environment.
 
+
 Interests: AI Agents • Automation • Prompt Engineering • Growth Systems
 Working With: APIs • Agent Workflows • Research Tools • Social Platforms
 
