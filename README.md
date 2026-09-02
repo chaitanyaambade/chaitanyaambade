@@ -4,6 +4,7 @@
 
 
 I’m a founding team member at Axgen, an AI-powered marketing and automation platform, where I work on AI agent workflows, research, and growth execution.
+
 My work focuses on designing and improving agent task flows, assisting in the development of small components within larger AI systems, and supporting research-driven automation for marketing use cases. I collaborate closely with engineers & founders to translate ideas into practical workflows and experiments.
 Alongside agent-related work, I handle market research, social media strategy, and growth experimentation, helping shape how the product is positioned and validated in real-world scenarios.
 
@@ -11,6 +12,7 @@ Alongside agent-related work, I handle market research, social media strategy, a
 
 
 I’m especially interested in:  
+
 
 
 
