@@ -30,7 +30,8 @@ Interests: AI Agents • Automation • Prompt Engineering • Growth Systems
 Working With: APIs • Agent Workflows • Research Tools • Social Platforms
 
 
-## My Contributions Snake 🐍:
+## My Contributions Snake :
+
 
 <div align="center">
  <picture>
